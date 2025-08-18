@@ -4,7 +4,7 @@
  *italics*
 
  image test 
-! [kohran](/ivand-pub/img/kohran.png)
+! [kohran](https://raw.githubusercontent.com/CIT82/ivand-pub/refs/heads/main/img/kohran.png)
 
  >block quote
 
