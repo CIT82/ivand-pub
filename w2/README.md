@@ -2,8 +2,7 @@
 
 **bold test (sub title?)**
  *italics*
-
- image test 
+ 
 ! [kohran](kohran.png "kohran" )
 
  >block quote
