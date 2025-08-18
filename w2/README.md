@@ -4,7 +4,7 @@
  *italics*
 
  image test 
-! [kohran](main/img/kohran.png "kohran" )
+! [kohran](kohran.png "kohran" )
 
  >block quote
 
