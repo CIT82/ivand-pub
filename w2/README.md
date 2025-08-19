@@ -52,29 +52,10 @@ I'll restate the previous section as an unordered list.\
 \ 
 that should do.
 
-`Ah I still have to include a code block and a link to something. Oops `
-[Here's a link back to the markdown cheat sheet we were given for the assignment.](https://www.markdownguide.org/cheat-sheet/)
+`Ah I still have to include a code block and a link to something. Oops ` \
+[Here's a link back to the markdown cheat sheet we were given for the assignment.](https://www.markdownguide.org/cheat-sheet/)\
 I forgot to update the codespace after I uploaded the screenshots. Oops.
 
-**bold test (sub title?)**
- *italics*
- 
-![kohran](kohran.png "kohran alt text")
- >block quote
-
- 1. ordered
- 2. list
- 3. test
-
- - unordered 
- - list
- - test
-
- `code`
-
- ---
-
- [link test](https://www.markdownguide.org/cheat-sheet/)
-
+#hey check out these footnotes
  [^1]: No one ever needs a subsitute on the first day
  [^2]: See footnote 1 [^1]
