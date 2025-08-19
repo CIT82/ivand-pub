@@ -10,22 +10,22 @@ uploading them that they still have their long original name and timestamp in th
 but awful for calling on...
 
 1.  Shot from the opening. I like Noa's smile here.
-![opening](w2/vlcsnap-2025-08-18-14h17m26s385.png)
+![opening](vlcsnap-2025-08-18-14h17m26s385.png)
 
 2. Later shot. Nothing of particular note but I'm fond of characters in Mecha series that have a fondness for the robots.\
 They're rarer than you'd think, and Noa's an especially fun example of one. 
-![grasscutting](w2/vlcsnap-2025-08-18-14h36m49s490.png)
+![grasscutting](vlcsnap-2025-08-18-14h36m49s490.png)
 
 3. Commercial Eyecatch. Cool shot of the Patlabor in a firing pose. The english logo underneath is actually a part of\
 the subtitles! Very cool. Is your scrolling finger tired yet? I hope so.
-![eyecatch](w2/vlcsnap-2025-08-18-14h37m53s944.png)
+![eyecatch](vlcsnap-2025-08-18-14h37m53s944.png)
 
 4. I like the way this shot is framed. I wanted to get a screenshot with the lights pulsing but wasn't able to and \
 trying to get one got quickly annoying. 
-![stand](w2/vlcsnap-2025-08-18-14h48m18s728.png)
+![stand](vlcsnap-2025-08-18-14h48m18s728.png)
 
 5. Nothing of note here compared to anything else in the series. I think the small frown on her face is funny here.
-![frown](Are you tired of scrolling yet? I hope so.)
+![frown](vlcsnap-2025-08-18-14h54m04s648.png)
 
 ## Morning
 Woke up to get ready for potential work call, though already felt it wasn't going to come in.[^2] Began working on \
