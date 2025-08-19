@@ -57,6 +57,6 @@ that should do.
 I forgot to update the codespace after I uploaded the screenshots. Oops.
 I like doing this more than I like regular canvas discussions. I hope it continues.
 
-#hey check out these footnotes
+# hey check out these footnotes
  [^1]: No one ever needs a subsitute on the first day
  [^2]: See footnote 1 [^1]
