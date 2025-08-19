@@ -5,9 +5,9 @@ Worked on CIT 48 classwork. Talked to friends while watching whatever game they 
 after finishing classwork began doing drawing practice whilst watching/streaming the *Patlabor* OVA to the group. \
 Putting the series name in italics and specifying the ova feels incredibly forced. I didn't enjoy writing that. \
 Knew I could have work tomorrow but went to sleep rather late because it would be the first day[^1] of the FUSD semester. \
-I took screenshots of the OVA as I watched which I will include. VLC is a good media player.~I realize now after \
-uploading them^1^ that they still have their long original name and timestamp in them. This is helpful for sorting \
-but awful for calling on...~
+I took screenshots of the OVA as I watched which I will include. VLC is a good media player.I realize now after \
+uploading them that they still have their long original name and timestamp in them. This is helpful for sorting \
+but awful for calling on...
 
 1.  Shot from the opening. I like Noa's smile here.
 ![opening](w2/vlcsnap-2025-08-18-14h17m26s385.png)
@@ -35,7 +35,7 @@ frustrated communications with other online professor over not wanting to post m
 ## Now
 Working on website. Ran multiple test commits to see how things would display to avoid having to learn *after* \
 already writing down what I felt like including. Note that after I wrote this I began testing things again after already\
-having written more. Oops^2^.
+having written more. Oops.
 
 ## Later
 I need to do the other assignments. I understand why they're placed behind the Attendance but I really wish I could know \
@@ -52,9 +52,9 @@ I'll restate the previous section as an unordered list.\
 \ 
 that should do.
 
-`Ah I still have to include a code block and a link to something. Oops ^3^`
+`Ah I still have to include a code block and a link to something. Oops `
 [Here's a link back to the markdown cheat sheet we were given for the assignment.](https://www.markdownguide.org/cheat-sheet/)
-I forgot to update the codespace after I uploaded the screenshots. Oops^4^.
+I forgot to update the codespace after I uploaded the screenshots. Oops.
 
 **bold test (sub title?)**
  *italics*
