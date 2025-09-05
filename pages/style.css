@@ -1,0 +1,36 @@
+body {
+    color: blueviolet;
+    font-family: 'Courier New', Courier, monospace;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+
+}
+
+header {
+    background-color: rgb(199, 163, 233);
+    color: white;
+    padding: 10px;
+    /* border: 10 px lavender dashed; */
+}
+
+main { 
+    margin: 15px;
+    padding: 15px;
+    background-color: rgb(231, 239, 250);
+}
+
+footer {
+    background-color: aliceblue;
+    color: purple;
+    padding: 10px;
+}
+
+label {
+    display: block;
+}
+
+.outline {
+    border: 1px black solid;
+
+}
