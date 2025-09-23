@@ -15,3 +15,4 @@
 - [ ] Create statistic and info pages
 - [ ] Change homepage cards to lead to categorization pages
 - [ ] Create several subpages
+- [ ] get the scream at the end of amethyst by COTD
