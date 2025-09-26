@@ -10,7 +10,7 @@
 <html>
 <head>
     <meta charset="utf-8">
-    <title>Galaxy - Personal Blog Template</title>
+    <title>Website</title>
 
     <!-- mobile responsive meta -->
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -54,22 +54,40 @@
     <div class="navbar navbar-dark my-4 p-0 font-primary">
         <ul class="navbar-nav w-100">
             <li class="nav-item active">
-                <a class="nav-link text-white px-0 pt-0" href="index.html">Home</a>
+                <a class="nav-link text-white px-0 pt-0" href="newpage.html">Home</a>
             </li>
             <li class="nav-item ">
-                <a class="nav-link text-white px-0" href="about.html">About</a>
-            </li>
-            <li class="nav-item ">
-                <a class="nav-link text-white px-0" href="contact.html">Contact</a>
+                <a class="nav-link text-white px-0" href="starter.html">Starter Guide</a>
             </li>
             <li class="nav-item  accordion">
-                <div id="drop-menu" class="drop-menu collapse">
-                    <a class="d-block " href="index-2.html">Home 2</a>
-                    <a class="d-block " href="category.html">Category</a>
-                    <a class="d-block " href="post-details.html">Post Details</a>
-                    <a class="d-block " href="privacy.html">Privacy &amp; Policy</a>
+                <a class="nav-link text-white" href="#!" role="button" data-toggle="collapse" data-target="#system" aria-expanded="false" aria-controls="drop-menu">Systems</a>
+                <div id="system" class="drop-menu collapse">
+                    <a class="d-block " href="stats.html">Stats</a>
+                    <a class="d-block " href="system.html">Battle System</a>
+                    <a class="d-block " href="exploration.html">Dungeon exploration</a>
                 </div>
-                <a class="nav-link text-white" href="#!" role="button" data-toggle="collapse" data-target="#drop-menu" aria-expanded="false" aria-controls="drop-menu">Pages</a>
+            </li>
+            <li class="nav-item  accordion">
+                <a class="nav-link text-white" href="#!" role="button" data-toggle="collapse" data-target="#enc" aria-expanded="false" aria-controls="drop-menu">Encyclopedia</a>
+                <div id="enc" class="drop-menu collapse">
+                    <a class="d-block " href="form.html">Forms</a>
+                    <a class="d-block " href="function.html">Functions</a>
+                    <a class="d-block " href="items.html">Items</a>
+                    <a class="d-block " href="gear.html">Gear </a>
+                    <a class="d-block " href="maps.html">Maps </a>
+                    <a class="d-block " href="enemies.html">Enemies </a>
+                </div>
+            </li>
+            <li class="nav-item  accordion">
+                <a class="nav-link text-white" href="#!" role="button" data-toggle="collapse" data-target="#story" aria-expanded="false" aria-controls="drop-menu">Story</a>
+                <div id="story" class="drop-menu collapse">
+                    <a class="d-block " href="story.html">Story</a>
+                    <a class="d-block " href="characters.html">Characters</a>
+                    <a class="d-block " href="world.html">World</a>
+                </div>
+            </li>
+            <li class="nav-item ">
+                <a class="nav-link text-white px-0" href="submission.html">Contribute!</a>
             </li>
             <li class="nav-item">
                 <a class="nav-link text-white px-0" href="newpage.html">Newpage</a>
@@ -209,47 +227,13 @@
                     <div class="widget text-center">
                         <img class="author-thumb-sm rounded-circle d-block mx-auto" src="images/placeholders/eloise placeholder.png" alt="">
                         <h2 class="widget-title text-white d-inline-block mt-4">What is [Name]</h2>
-                        <p class="mt-4">[Name] is a horror themed dungeon crawler RPG focused on... <a href = "about.html">Read More</a></p> 
-                        <ul class="list-inline mt-3">
-                            <li class="list-inline-item">
-                                <a href="#!" class="text-white text-primary-onHover p-2">
-                                    <span class="fab fa-twitter"></span>
-                                </a>
-                            </li>
-                            <li class="list-inline-item">
-                                <a href="#!" class="text-white text-primary-onHover p-2">
-                                    <span class="fab fa-facebook-f"></span>
-                                </a>
-                            </li>
-                            <li class="list-inline-item">
-                                <a href="#!" class="text-white text-primary-onHover p-2">
-                                    <span class="fab fa-instagram"></span>
-                                </a>
-                            </li>
-                            <li class="list-inline-item">
-                                <a href="#!" class="text-white text-primary-onHover p-2">
-                                    <span class="fab fa-linkedin-in"></span>
-                                </a>
-                            </li>
-                        </ul>
+                        <p class="mt-4">[Name] is a horror themed dungeon crawler RPG focused on... </p> <a href = "about.html">Read More</a>
                     </div>
                     <!-- end of author-widget -->
 
-                    <div class="widget bg-dark p-4 text-center">
-                        <h2 class="widget-title text-white d-inline-block mt-4">Subscribe Blog</h2>
-                        <p class="mt-4">Lorem ipsum dolor sit coectetur elit. Tincidu nfywjt leo mi, urna. Arcu ve isus, condimentum ut vulpate cursus por.</p>
-                        <form action="#">
-                            <div class="form-group">
-                                <input type="email" class="form-control bg-transparent rounded-0 my-4" placeholder="Your Email Address">
-                                <button class="btn btn-primary">Subscribe Now <img src="images/arrow-right.png" alt=""></button>
-                            </div>
-                        </form>
-                    </div>
-                    <!-- end of subscription-widget -->
-
                     <div class="widget">
                         <div class="mb-5 text-center">
-                            <h2 class="widget-title text-white d-inline-block">Featured Posts</h2>
+                            <h2 class="widget-title text-white d-inline-block">Featured Articles</h2>
                         </div>
                         <div class="card post-item bg-transparent border-0 mb-5">
                             <a href="post-details.html">
